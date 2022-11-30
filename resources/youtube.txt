@@ -1,0 +1,27 @@
+Below list of youtube channels:
+
+	--- 1. Data Science dream job
+	https://www.youtube.com/channel/UCr6_XCxMLXWGguWZi_93n7w
+
+	--- 2. Ken Jee
+	https://www.youtube.com/c/KenJee1/playlists
+
+	---3. Sentdex
+	https://www.youtube.com/user/sentdex
+
+	--- 4. Krish Naik
+	https://www.youtube.com/user/krishnaik06/playlists
+
+
+	--- 5. StatQuest with Josh Starmer
+	https://www.youtube.com/user/joshstarmer
+
+	--- 6. Corey Schafer
+	https://www.youtube.com/user/schafer5
+
+	--- 7.freecodecamp
+	https://www.youtube.com/c/Freecodecamp/playlists
+
+
+and got this valuable information from the webpage:
+https://towardsdatascience.com/these-7-youtube-channels-helped-me-become-a-data-scientist-d7f3c68fa74a
