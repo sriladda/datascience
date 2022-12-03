@@ -1,0 +1,18 @@
+1. Title of work: Example: “Stock market analysis using Machine Learning”.
+2. Introduction: Introduction about the work, Machine Learning, 
+depending upon your work (Financial Analysis or Natural Language, or Weather Forecasting or text mining) 
+and brief explanation about HMM/CRFs and how it will used for your work .
+3. Problem definition: Aims and objectives are determined taking into consideration certain factors 
+like the current background and future prospective.
+4. Data Preparation: The data is prepared for modelling by cleansing and formatting the raw data in the desired way. 
+The meaning of data is not changed while preparing.
+5. Data Pre-processing: Data pre-processing involves data type conversion, label encoding, handling missing values,
+handling time-series data etc
+6. Data exploration: Required data is collected and explored using various statistical methods 
+along with identification of underlying problems.
+7. Modelling: In this phase the data model is created by applying Hidden Markov Modelling or 
+Conditional Random Fields (CRFs) Modelling . After the model is created it goes through validation and verification.
+8. Evaluation: After the model is created, it is evaluated to check whether it satisfies objectives or not.
+9. Deployment: After evaluation, the model is deployed, a properly organized report is 
+prepared with the summary of the work done.
+10. Conclusion: Key findings about your work and conclusion
